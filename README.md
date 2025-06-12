@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# This project is a clone of [mpinfo] used only for educational and learning purposes. Not intended for commercial use 
+# This project is a clone of [mpinfo]  landingpage used only for educational and learning purposes. Not intended for commercial use 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
